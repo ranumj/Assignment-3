@@ -1,0 +1,48 @@
+﻿header
+{
+    text-align: center;
+}
+
+body
+{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+    background-color: azure;
+}
+
+article 
+{
+    padding: 25px 50px 75px 100px;
+}
+
+h2
+{
+    text-shadow: 1px 1px 3px;
+}
+
+p
+{
+    color: darkblue;
+    font-size: 20px;
+}
+
+.top 
+{
+    background-color: black;
+    color: white;
+    text-shadow: 2px 2px 5px red;
+}
+
+#line
+{
+    color: black;
+    font-size: 22px;
+}
+
+footer
+{
+    text-align: center;
+}
